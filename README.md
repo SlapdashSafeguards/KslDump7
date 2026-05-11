@@ -1,6 +1,8 @@
 # KslDump7
 For educational and research purposes only.
 
+Process dump using KslD.sys subcmd
+
 This code use SubCmd 7 not 2+12. (KslD.sys)
 
 We have already been "BYOVD"ed.
